@@ -85,7 +85,7 @@
 	position: relative;
 	z-index: 1;
 	width: 709px;
-	height: 850px;
+	height: 750px;
 	flex-shrink: 0;
 	overflow: hidden;
 }
@@ -436,12 +436,6 @@
 	.about-history__dot.active {
 		background: var(--text-white);
 		border-color: #ff5a36;
-	}
-}
-
-@media (max-width: 1500px) {
-	.about-hero__photo {
-		height: 750px;
 	}
 }
 
